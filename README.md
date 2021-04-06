@@ -1,6 +1,9 @@
 # PNG-manipulation
 A tool developed to manipulate PNG file. The manipulation methods include: transform-to-greyscale, create-a-spotlight, add-filter, and add-watermark.
 
+## Purposes
+The main purpose of this project is to pratice C++.
+
 ## Technologies
 - C++
 
@@ -38,9 +41,6 @@ Added watermark PNG:
 
 ![added a filter picture](out-watermark.png)
 
-
-## Purposes
-The main purpose of this project is to pratice C++.
 
 ## Notes
 Part of the codes was provided by the author. I created the HSLAPixel class and the PNG manipulation functions.
