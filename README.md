@@ -2,7 +2,7 @@
 A tool developed to manipulate PNG file. The manipulation methods include: transform-to-greyscale, create-a-spotlight, add-filter, and add-watermark.
 
 ## Purposes
-The main purpose of this project is to pratice C++.
+The main purpose of this project is to pratice C++. This project can be further extended to other picture editing tools, such as personalized photo filters, etc.
 
 ## Technologies
 - C++
